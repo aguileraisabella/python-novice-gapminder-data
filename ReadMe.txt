@@ -4,3 +4,5 @@ Software carpentry notes
 
 Navigate files using shell
 GitHub
+
+Python tomorrow
